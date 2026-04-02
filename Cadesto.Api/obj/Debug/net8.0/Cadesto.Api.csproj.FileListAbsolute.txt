@@ -1,0 +1,8 @@
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.csproj.AssemblyReference.cache
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.AssemblyInfoInputs.cache
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.AssemblyInfo.cs
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.csproj.CoreCompileInputs.cache
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yosef\Cadesto\Cadesto.Api\obj\Debug\net8.0\Cadesto.Api.sourcelink.json

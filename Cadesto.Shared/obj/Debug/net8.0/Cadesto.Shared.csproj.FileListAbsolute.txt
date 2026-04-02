@@ -1,0 +1,12 @@
+C:\Users\yosef\Cadesto\Cadesto.Shared\bin\Debug\net8.0\Cadesto.Shared.deps.json
+C:\Users\yosef\Cadesto\Cadesto.Shared\bin\Debug\net8.0\Cadesto.Shared.dll
+C:\Users\yosef\Cadesto\Cadesto.Shared\bin\Debug\net8.0\Cadesto.Shared.pdb
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.AssemblyInfoInputs.cache
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.AssemblyInfo.cs
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.csproj.CoreCompileInputs.cache
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.sourcelink.json
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.dll
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\refint\Cadesto.Shared.dll
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\Cadesto.Shared.pdb
+C:\Users\yosef\Cadesto\Cadesto.Shared\obj\Debug\net8.0\ref\Cadesto.Shared.dll
