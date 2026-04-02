@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EpuMK3HnSKE=",
+  "dgSpecHash": "umf4iPNVu0Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\yosef\\Cadesto\\Cadesto.Api\\Cadesto.Api.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\yosef\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.13\\microsoft.entityframeworkcore.relational.8.0.13.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.13\\microsoft.entityframeworkcore.sqlite.8.0.13.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.13\\microsoft.entityframeworkcore.sqlite.core.8.0.13.nupkg.sha512",
+    "C:\\Users\\yosef\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.5\\microsoft.extensions.configuration.abstractions.10.0.5.nupkg.sha512",
@@ -59,6 +60,10 @@
     "C:\\Users\\yosef\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\std.uritemplate\\1.0.6\\std.uritemplate.1.0.6.nupkg.sha512",
+    "C:\\Users\\yosef\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\yosef\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\yosef\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\yosef\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\system.clientmodel\\1.1.0\\system.clientmodel.1.1.0.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\yosef\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",

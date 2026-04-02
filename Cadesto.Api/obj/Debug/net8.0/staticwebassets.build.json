@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YQGv8TUk36oI0WirEPqotFKbvKTcgwtgcRbEsAB/hqU=",
+  "Source": "Cadesto.Api",
+  "BasePath": "_content/Cadesto.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

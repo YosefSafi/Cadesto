@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cadesto.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85c13cae5bdf4f009cc922c644365f3b97c4cad3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b6835cd242f4e256a62d85975fda3219b403d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cadesto.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cadesto.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
